@@ -1,6 +1,6 @@
 package com.epam.geometry.creator;
 
-import com.epam.geometry.creator.Creator;
+
 import com.epam.geometry.model.Point;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

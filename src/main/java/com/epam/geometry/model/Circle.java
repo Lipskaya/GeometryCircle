@@ -15,6 +15,8 @@ public class Circle{
         }
         this.radius = radius;
     }
+    public Circle() {}
+
 
     public Point getCentre() {
         return centre;
